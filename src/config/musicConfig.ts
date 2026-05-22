@@ -26,7 +26,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	meting: {
 		// Meting API 地址
 		// 默认使用官方 API，也可以使用自定义 API
-		api: "https://api.i-meto.com/meting/api?server=netease&type=song&id=2722442265"
+		api: "https://api.i-meto.com/meting/api?server=netease&type=song&id=2722442265",
 		//关注塔菲喵
 //"https://api.i-meto.com/meting/api?server=:server&type=:type&id=:id&r=:r",
 		// 音乐平台：netease=网易云音乐, tencent=QQ音乐, kugou=酷狗音乐, xiami=虾米音乐, baidu=百度音乐
