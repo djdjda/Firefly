@@ -26,7 +26,9 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	meting: {
 		// Meting API 地址
 		// 默认使用官方 API，也可以使用自定义 API
-		api: "https://api.i-meto.com/meting/api?server=:server&type=:type&id=:id&r=:r",
+		api: https://api.i-meto.com/meting/api?server=netease&type=song&id=2722442265
+		//关注塔菲喵
+//"https://api.i-meto.com/meting/api?server=:server&type=:type&id=:id&r=:r",
 		// 音乐平台：netease=网易云音乐, tencent=QQ音乐, kugou=酷狗音乐, xiami=虾米音乐, baidu=百度音乐
 		server: "netease",
 		// 类型：song=单曲, playlist=歌单, album=专辑, search=搜索, artist=艺术家
@@ -50,10 +52,10 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	local: {
 		playlist: [
 			{
-				name: "使一颗心免于哀伤",
-				artist: "知更鸟 / HOYO-MiX / Chevy",
-				url: "/assets/music/使一颗心免于哀伤-哼唱.mp3",
-				cover: "/assets/music/cover/109951169585655912.webp",
+				name: "关注塔菲喵，关注塔菲谢谢喵",
+				artist: "永雏塔菲 / Ace / Taffy",
+				url: "/assets/music/关注塔菲谢谢喵-永雏塔菲.mp3",
+				cover: "/assets/music/cover/a.jpg",
 				lrc: "",
 			},
 		],
